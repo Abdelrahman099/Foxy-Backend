@@ -25,14 +25,14 @@
     },
     {
       "src": "/api/(.*)",
-      "dest": "/api/$1"
+      "dest": "/api/$1" 
     },
     {
-      "handle": "filesystem"
+      "handle": "filesystem" 
     },
     {
       "src": "/(.*)",
-      "dest": "/index.html"
+      "dest": "/index.html" 
     }
   ]
 }
