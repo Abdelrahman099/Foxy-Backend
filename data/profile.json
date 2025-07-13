@@ -105,7 +105,29 @@
       "url": "https://mountainview.sale/",
       "github": "https://github.com/foxydev/task-manager",
       "image": "/images/Mountine-view.png"
+    },  {
+      "name": "Mountain View Landing Page",
+      "description": "A modern, animated real estate landing page built with React, Vite, and Tailwind CSS. It collects user data via Email.js and exports to Excel without a backend.",
+      "highlights": ["React", "Vite", "Tailwind CSS", "Animate.js", "ScrollTrigger.js", "Email.js", "Excel Integration"],
+      "url": "https://mountainview.sale/",
+      "github": "https://github.com/foxydev/task-manager",
+      "image": "/images/Mountine-view.png"
+    },{
+      "name": "RedDevelopment Landing Page",
+      "description": "A sleek real estate landing page created using React, Vite, and Tailwind CSS. Features smooth animations, responsive layouts, and user engagement forms powered by Email.js, with direct Excel export functionality.",
+      "highlights": ["React", "Vite", "Tailwind CSS", "Framer Motion", "ScrollTrigger.js", "Email.js", "Excel Export"],
+      "url": "https://www.redmindsdev.com/",
+      "image": "/images/RedDev.png"
     }
+,{
+  "name": "Acito Landing Page",
+  "description": "An elegant, high-converting landing page for a premium real estate brand. Built with React and Tailwind CSS, with interactive animations and lead collection via Email.js and Excel export, all without a backend.",
+  "highlights": ["React", "Vite", "Tailwind CSS", "Animate.js", "GSAP", "Email.js", "No Backend Excel Export"],
+  "url": "https://redmindsdev.com/Actio/",
+  
+  "image": "/images/Actio.png"
+}
+    
     
   ],
   "education": [
