@@ -97,7 +97,16 @@
       "url": "https://realestate.foxydev.com",
       "github": "https://github.com/foxydev/real-estate",
       "image": "/images/Elite-homes.png"
+    }  ,
+    {
+      "name": "Mountain View Landing Page",
+      "description": "A modern, animated real estate landing page built with React, Vite, and Tailwind CSS. It collects user data via Email.js and exports to Excel without a backend.",
+      "highlights": ["React", "Vite", "Tailwind CSS", "Animate.js", "ScrollTrigger.js", "Email.js", "Excel Integration"],
+      "url": "https://mountainview.sale/",
+      "github": "https://github.com/foxydev/task-manager",
+      "image": "/images/mountain-view.png"
     }
+    
   ],
   "education": [
     {
